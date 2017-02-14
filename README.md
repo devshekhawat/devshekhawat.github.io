@@ -1,4 +1,4 @@
-<img src="dev-portrait.jpg" class="profile-picture" width="128" align="right">
+<img src="dev-pic.jpg" class="profile-picture" width="128" align="right">
 
 Hello. My name is Devendra Singh Shekhawat.
 I'm a Computer Science and Engineering Student at JECRC University, Jaipur with a passion for design and technology
